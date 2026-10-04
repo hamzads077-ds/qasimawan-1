@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Qasim Qayyum</h1>
 
 <h3 align="center">
-AI Intern @ NovuLabs | Statistical Data Science Undergraduate | Aspiring AI & Software Engineer
+Statistical Data Science Undergraduate | Aspiring AI & Software Engineer
 </h3>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
