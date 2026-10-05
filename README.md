@@ -4,7 +4,9 @@
 Statistical Data Science Undergraduate | Aspiring AI & Software Engineer
 </h3>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<p align="center">
+  <img alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+</p>
 
 ---
 
@@ -24,15 +26,14 @@ I'm passionate about **Artificial Intelligence, Software Engineering, Data Scien
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.qasimqayyum25@gmail.com)
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### Programming Languages
 
@@ -59,7 +60,7 @@ I'm passionate about **Artificial Intelligence, Software Engineering, Data Scien
 
 ---
 
-# 🛠️ Areas of Interest
+## 🛠️ Areas of Interest
 
 - 🤖 Artificial Intelligence
 - 📊 Data Science
@@ -73,7 +74,7 @@ I'm passionate about **Artificial Intelligence, Software Engineering, Data Scien
 
 ---
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
 🚧 Coming Soon...
 
@@ -90,25 +91,27 @@ Upcoming repositories will include:
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=qasimawan-1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=qasimawan-1&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=qasimawan-1&theme=tokyonight&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=qasimawan-1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Qasim's GitHub Stats" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=qasimawan-1&theme=tokyonight&hide_border=true" alt="Qasim's GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasimawan-1&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🐍 Contribution Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
 
-# 🎯 2026 Goals
+## 🎯 2026 Goals
 
 - ✅ Master JavaScript
 - ✅ Learn React.js
@@ -121,10 +124,12 @@ Upcoming repositories will include:
 
 ---
 
-# 💡 Quote
+## 💡 Quote
 
 > *"Stay curious. Keep building. Every line of code is a step toward mastery."*
 
 ---
 
-![](https://komarev.com/ghpvc/?username=qasimawan-1&style=for-the-badge&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=qasimawan-1&style=for-the-badge&color=blue" alt="Profile Views" />
+</p>
